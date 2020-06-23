@@ -1,0 +1,16 @@
+[
+    {
+        "nama" : "Rizky Setiawan",
+        "umur" : 19,
+        "nim" : "A221902736",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing":{ 
+            "pembimbing1" : "Abu Salam",
+            "pembimbing2" : "Salam Abu"
+        }
+    }
+]
